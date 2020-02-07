@@ -1,5 +1,5 @@
 ---
-date: 2020-02-06
+date: 2020-02-07
 linktitle: Test music
 title: Test music
 weight: 10
@@ -72,9 +72,10 @@ Anh biết đây là đêm cuối say mà thôi
 
 Nhìn lại từng khoảnh khắc từng tồn tại
 
-Ta từng khờ dại.
+Ta từng khờ dại 
 
 
 [![](http://img.youtube.com/vi/ntEoGvhoVac/0.jpg)](http://www.youtube.com/watch?v=ntEoGvhoVac "")
+
 
 Chillies
