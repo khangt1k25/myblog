@@ -1,7 +1,7 @@
 baseurl         = "https://khangt1k25.github.io/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "NTK16"
 paginate        = 6
 #SectionPagesMenu = "main"
 
