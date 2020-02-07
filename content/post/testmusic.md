@@ -44,7 +44,7 @@ Lại một ngày trôi đi về mây ngàn
 
 Em đi cùng đêm tàn
 
-Về xa khuất
+Về xa khuất...
 
 
 
@@ -72,7 +72,7 @@ Anh biết đây là đêm cuối say mà thôi
 
 Nhìn lại từng khoảnh khắc từng tồn tại
 
-Ta từng khờ dại
+Ta từng khờ dại.
 
 
 [![](http://img.youtube.com/vi/ntEoGvhoVac/0.jpg)](http://www.youtube.com/watch?v=ntEoGvhoVac "")
