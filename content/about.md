@@ -7,6 +7,7 @@ image: "uploads/robot.jpg"
 ---
 
 
-## Hei guys, welcome to my corner!
-### I am Khang, full name is Nguyen Tran Khang; I come from VietNam. Now, i am 20 years old and i am studying Computer science in HUST.
+## Hei guys, welcome to my corner! 
+
+## Chắc là nơi duy nhất để tâm sự  có thể lúc này.   
 
