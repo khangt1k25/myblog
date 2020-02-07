@@ -1,7 +1,7 @@
 ---
 date: 2020-02-07
-linktitle: Test music
-title: Test music
+linktitle: Mascara
+title: Mascara
 weight: 10
 image: "uploads/bluered.jpg"
 categories: ["Story"]
