@@ -7,65 +7,74 @@ image: "uploads/bluered.jpg"
 categories: ["Story"]
 tags : ["Music"]
 ---
-### Có em đời bỗng vui
+### Mascara
 
-Một chiều cuối thu
+Câu tạm biệt em nói trên môi
 
-Nghe nắng trong tâm hồn 
+Anh biết đây là đêm cuối bên nhau mà thôi
 
-Một hình bóng ai kia gọi mời
+Nhìn lại từng khoảnh khắc từng tồn tại
 
-Một trái tim vừa mở lời.
+Ta từng khờ dại 
 
-Lại gần anh hơn nữa
+Mắt em nhòa đi mascara
 
-Nhẹ hôn lên tóc em, môi kề môi
+Em trách anh không đi đến nơi gọi là nhà
 
-Những ánh mắt trao nhau ngại ngần
+Dù vạn ngày cũng chẳng để lại gì
 
-Thay bao dấu yêu, đã bao lần.
- 
-
-
-Em, anh chỉ cần mỗi em mà thôi.
-
-Có chi đâu xa xôi, muốn em hôn lên môi.
-
-Em, em vờ như không biết tình anh
-
-Là những mong manh, là áng mây xanh
-
-Nói anh nghe. 
+Tim mình thầm thì 
 
 
+Mình còn lại gì ngoài cuộc gọi hai giờ đêm
 
-Có em bên đời bỗng vui.
+Mình còn lại gì ngoài ngày dường như dài thêm
 
-Chẳng thêm những ngày giá đông lạnh căm
+Nụ cười mà ta vô tình bỏ lại
 
-Có thêm đôi tình nhân
+Trên môi em sớm mai
 
-Có thêm đôi bàn tay ân cần.
+Dù xa khuất
 
-Có em bên đời bỗng vui
+Mình còn lại gì ngoài ngàn lời yêu đã trao
 
-Về đêm nghe tim mình chợt thao thức nhớ em
+Mình còn lại gì ngoài tình đã phai từ hôm nào
 
-Nhớ đôi vai gầy, nhớ thân thương này
+Lại một ngày trôi đi về mây ngàn
 
-Em hỡiiii. 
- 
+Em đi cùng đêm tàn
 
-
-Nắng vẫn chiếu môi em hồng.
-
-Và đôi mắt ta thôi đợi mong. 
-
-Khẽ nói tiếng yêu nồng với em 
-
-Với em.....
+Về xa khuất
 
 
-[![](http://img.youtube.com/vi/AE3eD-XV4vg/0.jpg)](http://www.youtube.com/watch?v=AE3eD-XV4vg "")
+
+Câu tạm biệt em nói trên môi,
+
+Anh biết đây là đêm cuối say mà thôi
+
+Nhìn lại từng khoảnh khắc từng tồn tại
+
+Ta từng khờ dại 
+
+Mắt em nhòa đi mascara
+
+Em trách anh không đi đến nơi gọi là nhà
+
+Dù vạn ngày cũng chẳng để lại gì
+
+Tim mình thầm thì 
+
+
+
+Câu tạm biệt em nói trên môi
+
+Anh biết đây là đêm cuối say mà thôi
+
+Nhìn lại từng khoảnh khắc từng tồn tại
+
+Ta từng khờ dại
+
+
+[![](http://img.youtube.com/vi/ntEoGvhoVac/0.jpg)](http://www.youtube.com/watch?v=ntEoGvhoVac "")
 
 Chillies
