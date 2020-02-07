@@ -1,0 +1,59 @@
+baseurl         = "https://khangt1k25.github.io/myblog/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Khangruni"
+  subtitle    = "My story about all things in the world"
+
+  cover       = "uploads/cover.jpeg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+  footerbg  = "uploads/bluered.jpg"
+
+  youtubeName = "channel/UCQYGd43rcI84q2ZGUfdgwRA"
+  fbName = "trankhang.nguyen.35"
+  githubName = "khangt1k25"
+
+  logo = ""
+  orgName = "NTK16"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "NTK16"
+  authorAvatar = "uploads/icon.jpg"
+  authorLocation = "HaNoi, VietNam"
+  authorWebsite = "https://khangt1k25.github.io/myblog/"
+  authorDescription = "Hall of fame"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+  
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "My Work"
+  url = "/categories/Work/"
+  weight = 100
+
+[[menu.main]]
+  name = "My Story"
+  url = "/categories/Story/"
+  weight = 200
+
+

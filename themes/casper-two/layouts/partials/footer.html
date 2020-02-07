@@ -1,0 +1,71 @@
+<footer class="site-footer outer" {{if .Site.Params.cover}}
+  style="background-image: url({{.Site.Params.footerbg | absURL}})" {{end}}>
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="/myblog">{{.Site.Params.orgName}}</a> {{.Site.Params.copyright}} <br>
+      {{with .Site.Params.showSupport}}<span style="font-size: 0.8em; color: #555;">Hugo port of <a
+          href="https://github.com/TryGhost/Casper">Casper 2.1.7</a> by <a
+          href="https://www.telematika.org">EM</a></span>{{end}}
+      <div id="clock" class="text-muted" style="font-size:1em;"></div>
+      <script>
+        setInterval(displayClock, 500);
+
+        function displayClock() {
+          var time = new Date();
+          var year = time.getFullYear();
+          var month = time.getMonth() + 1;
+          var day = time.getDay();
+          var date = time.getDate();
+          var hrs = time.getHours();
+          var min = time.getMinutes();
+          var sec = time.getSeconds();
+
+
+          var weekday = new Array(7);
+          weekday[0] = "Sunday";
+          weekday[1] = "Monday";
+          weekday[2] = "Tuesday";
+          weekday[3] = "Wednesday";
+          weekday[4] = "Thursday";
+          weekday[5] = "Friday";
+          weekday[6] = "Saturday";
+
+          var wkd = weekday[time.getDay()];
+          if (sec < 10) {
+            sec = '0' + sec;
+          }
+          if (min < 10) {
+            min = '0' + min;
+          }
+          if (date < 10) {
+            date = '0' + date;
+          }
+          if (month < 10) {
+            month = '0' + month;
+          }
+
+
+          str = wkd + ' ' + hrs + ':' + min + ':' + sec + ' ' + date + '/' + month + '/' + year
+
+          document.getElementById('clock').innerHTML = str;
+        }
+      </script>
+    </section>
+
+
+    <nav class="site-footer-nav">
+      <a href="/myblog/about/">About</a>
+      {{with .Site.Params.fbName}}<a href="https://www.facebook.com/{{.}}" target="_blank"
+        rel="noopener">Facebook</a>{{end}}
+      {{with .Site.Params.youtubeName}}<a href="https://youtube.com/{{.}}" target="_blank"
+        rel="noopener">Youtube</a>{{end}}
+      {{with .Site.Params.githubName}}<a href="https://github.com/{{.}}" target="_blank"
+        rel="noopener">Github</a>{{end}}
+      {{with .Site.Params.linkedinName}}<a href="https://www.linkedin.com/in/{{.}}" target="_blank"
+        rel="noopener">LinkedIn</a>{{end}}
+
+      {{with .Site.Params.mediumName}}<a href="https://medium.com/@{{.}}" target="_blank"
+        rel="noopener">Medium</a>{{end}}
+    </nav>
+  </div>
+</footer>
