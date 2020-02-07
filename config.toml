@@ -29,7 +29,7 @@ paginate        = 6
   author = "NTK16"
   authorAvatar = "uploads/icon.jpg"
   authorLocation = "HaNoi, VietNam"
-  authorWebsite = "https://khangt1k25.github.io/myblog/"
+  authorWebsite = "https://khangt1k25.github.io/"
   authorDescription = "Hall of fame"
 
   pageNotFoundTitle = "404 - Page not found"
