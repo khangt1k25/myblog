@@ -21,7 +21,7 @@ Cà phê ra đời ở Etiopia, trải qua nhiều năm và giờ nó có mặt 
 Có 2 nhóm cà phê chính là Arabica và Robusta. Arabica nhẹ hơn, đắt hơn, số lượng cũng nhiều hơn ( 70% ). Việt Nam chủ yếu Robusta thôi, ít phần trăm hơn nhưng lại rẻ hơn, đang cảm thấy hơi bất thường. 
 
 
-2. Thu hoạch 
+2. Thu hoạch quả
 
 Trồng rồi lấy quả cà phê thôi.
 
