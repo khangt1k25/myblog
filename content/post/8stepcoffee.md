@@ -3,8 +3,9 @@ title: "8 bước từ hạt cà phê cho đến những ly cà phê mê hoặc"
 linktitle : "8 bước từ hạt cà phê cho đến những ly cà phê mê hoặc"
 date: 2020-02-14T20:32:06+07:00
 image: "uploads/coffeebg.jpg"
+categories: ["Story"]
 tags: ["Coffee"]
-catagories: ["Story"]
+
 ---
 
 ## 8 bước từ hạt cà phê cho đến những ly cà phê mê hoặc
