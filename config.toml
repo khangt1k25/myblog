@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "My story about all things in the world"
 
   cover       = "uploads/cover.jpeg"
-  description = "Here is a description of your site."
+  description = "Năm tháng tuổi trẻ"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
