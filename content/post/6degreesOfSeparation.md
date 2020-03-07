@@ -2,7 +2,6 @@
 linktitle: 'Six degrees of Separation'
 title: "Six degrees of Separation"
 date: 2020-03-07T20:05:20+07:00
-draft: False
 image: "uploads/6dos.jpg"
 categories: ["Story"]
 tags: ["Science"]
