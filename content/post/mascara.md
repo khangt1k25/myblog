@@ -75,6 +75,6 @@ Ta từng khờ dại
 
 
 
-![Lotte](https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.27.960.960a/s640x640/79311412_414022155976551_6590538010336775631_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=QBCiyDfspRQAX9i1OWz&oh=eaa2880efc6b0bd526765728720daa40&oe=5EA2EB09 "Lotte")
+![Lotte](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/89218234_2677256942555585_6928056537944424448_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=O4wnt5R4K00AX9NgyHZ&_nc_ht=scontent.fhan2-4.fna&oh=3c43c5b772ed6c3351f71a5fd127bd18&oe=5E93FB74 "Lotte")
 
 Bức ảnh tình cờ thấy được, ấm áp là từ ngữ thích hợp.      
