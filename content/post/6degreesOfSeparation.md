@@ -7,7 +7,7 @@ categories: ["Story"]
 tags: ["Science"]
 ---
 #### Từ Covid 19
-Đang trong mùa dịch Covid-19 căng thẳng, hôm qua thì đùng cái Hà Nội thông báo có người nhiễm. Thế mới thấy, dù cả cộng đồng chung tay dập dịch nhưng sai sót chủ quan của mọi người vẫn xảy ra. Mình có câu hỏi như này, là tại sao bệnh dịch lại lây lan nhanh, khó kiểm soát và cách nó diễn biến theo quy luật nào? Việc lây qua tiếp xúc, 1 người cho nhiều người rồi từ đó lây sang người lớp khác nhưng kích cỡ mức độ gọi là "tiếp xúc" to lớn đến mức nào?
+Đang trong mùa dịch Covid-19 căng thẳng, hôm qua thì đùng cái Hà Nội thông báo có người nhiễm. Thế mới thấy, dù cả cộng đồng chung tay dập dịch nhưng sai sót chủ quan của mọi người vẫn xảy ra. Mình có câu hỏi như này, là tại sao bệnh dịch lại lây lan nhanh, khó kiểm soát và cách nó diễn biến theo quy luật nào? Việc lây qua tiếp xúc, 1 người cho nhiều người rồi từ đó lây sang người lớp khác nhưng kích cỡ mức độ gọi là "tiếp xúc" to lớn đến mức nào. 
 
 
 #### Erdos graph từ toán rời rạc
