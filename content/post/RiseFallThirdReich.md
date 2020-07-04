@@ -41,7 +41,7 @@ Hitler đã đưa đế chế tiến hành cuộc chiến mà theo ông là cầ
 #### Bước ngoặt
 
 
-Khi nước Đức đạt đỉnh cao năm 1940. Có rất nhiều bước ngoặt mà theo ý kiến cá nhân chính là những bản lề thay đổi cuộc chiến trên lục địa già. Đầu tiên chính là quyết định xâm lược Liên Xô của Hitler. Liên Xô kiên cường chưa bao giờ đánh giá cao về quân sự sau cuộc thanh trừng nội bộ của Stalin và Hitler cũng nghĩ vậy. Quả thực việc đánh giá quá thấp về lực lượng của người Soviet khiến Hitler trả giá. Những bước tiến đầu là ấn tượng, người Đức đã tiến được đến sát Moscow nhưng vẫn bị đẩy lùi và sau đó là Stalingrad, Leningrad, Kursk đánh kiệt quệ vào cỗ máy chiến tranh người Đức, người Nga không bị khuất phục dễ dàng như các đội quân trước đó. Hitler bắt đầu biết đến thất bại. 
+Khi nước Đức đạt đỉnh cao năm 1940. Có rất nhiều bước ngoặt mà theo ý kiến cá nhân chính là những bản lề thay đổi cuộc chiến trên lục địa già. Đầu tiên chính là quyết định xâm lược Liên Xô vội vàng của Hitler. Liên Xô kiên cường chưa bao giờ đánh giá cao về quân sự sau cuộc thanh trừng nội bộ của Stalin và Hitler cũng nghĩ vậy. Quả thực việc đánh giá quá thấp về lực lượng của người Soviet khiến Hitler trả giá. Những bước tiến đầu là ấn tượng, người Đức đã tiến được đến sát Moscow nhưng vẫn bị đẩy lùi và sau đó là Stalingrad, Leningrad, Kursk đánh kiệt quệ vào cỗ máy chiến tranh người Đức, người Nga không bị khuất phục dễ dàng như các đội quân trước đó. Hitler bắt đầu biết đến thất bại. 
 
 
 
