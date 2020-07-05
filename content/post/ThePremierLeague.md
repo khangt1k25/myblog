@@ -1,9 +1,10 @@
 ---
 title: "The Premier League"
+linktitle: "The Premier League"
 date: 2020-07-04T19:37:09+07:00
 image: "uploads/epl.jpg"
-tags: ["Sport","Football"]
 catagories: ["Story"]
+tags: ["Sport","Football"]
 ---
 #### Nhà vô địch
 Các Liverpudlian là những người hạnh phúc nhất trong tuần vừa rồi. Đội bóng của họ vừa dành chức vô địch ngoại hạng anh mùa 19/20 sớm trước tận 7 vòng đấu, một kỉ lục của giải đấu. Ngoại hạng anh là một giải đấu lớn, hấp dẫn nhất trong số những giải đấu hấp dẫn. Việc Liverpool thống trị tuyệt đối mùa giải vừa rồi, hay Man Utd mùa 98/99 có là minh chứng cho việc giải đấu tẻ nhạt, dễ đoán định. Câu trả lời là không, ít nhất là trong vòng 20 năm qua. 
