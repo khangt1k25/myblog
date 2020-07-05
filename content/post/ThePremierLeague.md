@@ -1,6 +1,6 @@
 ---
 title: "The Premier League"
-linktitle: "The Premier League"
+linktitle: 'The Premier League'
 date: 2020-07-04T19:37:09+07:00
 image: "uploads/epl.jpg"
 catagories: ["Story"]
