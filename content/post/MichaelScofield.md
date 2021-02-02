@@ -3,7 +3,7 @@ title: "Michael Scofield - An unreal genius"
 linktitle: "Michael Scofield - An unreal genius"
 date: 2020-07-26T16:49:02+07:00
 image: "uploads/michaelscofield.jpg"
-catagories: ["Story"]
+categories: ["Story"]
 tags: ["Movies"]
 ---
 

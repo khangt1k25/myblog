@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 linktitle: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-image: ""
+image: "uploads/"
 catagories: []
 tags: []
 ---
